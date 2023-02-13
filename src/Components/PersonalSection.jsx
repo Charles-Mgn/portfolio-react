@@ -12,7 +12,8 @@ const Perso = () => {
                 <p>Using different techs:</p>
                 <ul>
                     <li>React</li>
-                    <li>Vue / Vite</li>
+                    <li>Vue</li>
+                    <li>Vite</li>
                     <li>PHP</li>
                     <li>Symfony</li>
                     <li>Java</li>
