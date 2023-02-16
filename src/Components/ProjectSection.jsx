@@ -4,9 +4,7 @@ import {Link} from "react-router-dom";
 class ProjectItem extends React.Component {
     render() {
         return (
-            <Link className="project-card" key={this.props.name} to={{
-                pathname: `/${this.props.name}`
-            }}>
+            <Link className="project-card" key={this.props.name} to={{pathname: `/${this.props.name}`}}>
                 <img className="project-img" src={this.props.image} alt={this.props.name}/>
 
                 <div className="project-overlay"></div>
@@ -19,7 +17,7 @@ class ProjectItem extends React.Component {
                         {this.props.type}
                     </div>
                 </div>
-                </Link>
+            </Link>
         )
     }
 }
