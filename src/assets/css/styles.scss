@@ -20,10 +20,15 @@ html {
   border-right: 3px solid var(--black);
   scroll-behavior: smooth;
   opacity: 0;
+  /*background-image: url("/src/assets/img/background.gif");
+  background-position: left bottom;
+  background-size: 850px;
+  background-repeat: repeat-x;*/
 }
 
 body {
   margin: 0;
+  background-color: var(--white);
 }
 
 .catch-phrase, .project-detail-name, .project-detail-url, .home-link {
@@ -92,10 +97,65 @@ h1, .catch-phrase, footer, .project-detail-url {
     margin-right: 50px;
   }
   .block-right {
-    margin-left: 50px;
+    margin-left: 100px;
   }
 }
 
+@media (max-width: 1250px) {
+  html {
+    width: auto;
+    border: none;
+  }
+  .flex-container {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  #perso {
+    .block-right {
+      margin: unset;
+      p {
+        text-align: center !important;
+        border-right: none !important;
+        padding: 0 !important;
+      }
+      .photo {
+        max-width: 100% !important;
+      }
+    }
+  }
+  #perso .bloc-left, #perso .block-right {
+    width: unset;
+  }
+}
+
+
+/* Perso */
+#perso {
+  .block-right {
+    .photo {
+      clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%);
+      width: max-content;
+      height: 500px;
+      object-fit: cover;
+      max-width: 500px;
+    }
+
+    p {
+      text-align: right;
+      border-right: 3px solid var(--tonic);
+      padding: 2px 10px 4px 0;
+
+      a {
+        color: var(--black);
+        transition: .2s;
+
+        &:hover {
+          color: var(--tonic);
+        }
+      }
+    }
+  }
+}
 
 /* Forms */
 form {
@@ -186,13 +246,21 @@ header {
   z-index: 1;
   transform: translateY(-50px);
 
+  .header-progress {
+    width: 0;
+    height: 5px;
+    background-color: var(--tonic);
+    position: absolute;
+    top: 0;
+  }
+
   .home-link {
     padding-left: 10px;
     color: var(--black);
     transition: .15s;
 
     &:hover {
-      color: var(--tonic)
+      color: var(--tonic);
     }
   }
 }
