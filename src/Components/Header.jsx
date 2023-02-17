@@ -10,7 +10,6 @@ const Header = () => {
     window.addEventListener('scroll', function() {
         const progress = getScrollProgress();
         document.querySelector('.header-progress').style.width = `${progress}%`;
-        console.log(`You have scrolled ${progress}% of the page.`);
     });
 
     return (

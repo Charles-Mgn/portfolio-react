@@ -12,7 +12,6 @@ const Project = () => {
         async function fetch() {
             const response = await axios.get('/assets/projects.json');
             setProject(response.data);
-            console.log(response.data);
         }
         fetch();
     }, []);

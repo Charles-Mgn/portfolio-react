@@ -24,7 +24,7 @@ const Perso = () => {
             </div>
 
             <div className="block-right">
-                <img className="photo" src="src/assets/img/photo.jpg" alt="It's me!"/>
+                <img className="photo" src="/assets/photo.jpg" alt="It's me!"/>
                 <p><a href="#contact">Hello there! Want to talk? Fell free to get in touch :)</a></p>
             </div>
         </section>
