@@ -36,8 +36,8 @@ const Contact = () => {
                 <button type="submit">{status}</button>
             </form>
             <div className="social-container flex-container">
-                <a href="https://www.linkedin.com/in/charles-m-9014a4151/" target="_blank"><i className="fa-brands fa-linkedin-in"></i></a>
-                <a href="https://github.com/Ezellix" target="_blank"><i className="fa-brands fa-github"></i></a>
+                <a href="https://www.linkedin.com/in/charles--mangin/" target="_blank"><i className="fa-brands fa-linkedin-in"></i></a>
+                <a href="https://github.com/Charles-Mgn" target="_blank"><i className="fa-brands fa-github"></i></a>
             </div>
         </section>
     )
