@@ -6,7 +6,7 @@
     "image": "https://collabyu.thomasjeu.fr/img/image2.jpg",
     "type": "Website",
     "date": "2022",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at sapien aliquet, sodales justo eget, fringilla tortor. Nullam risus nulla, fringilla non auctor vel, rhoncus vel tortor. Sed tincidunt magna eu mi rhoncus, eu porta nibh sodales. Aliquam rhoncus et tortor a tincidunt. Donec quis ultrices ligula. Donec eleifend, libero ut facilisis rutrum, mi felis viverra sem, sed efficitur ipsum neque eu mi. Integer a diam placerat purus feugiat eleifend eget ac ligula.\n\nSuspendisse vel ornare metus. Pellentesque nec lacus augue. Pellentesque consectetur, risus a malesuada ullamcorper, quam tortor posuere neque, eget luctus ex orci sed nibh. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed porta quis odio in lacinia. Morbi fermentum, urna ac luctus luctus, augue felis iaculis nibh, at euismod risus odio sit amet nulla. In sed molestie tortor. Sed leo mauris, imperdiet in dictum eget, vehicula in quam. Ut iaculis ipsum et metus molestie facilisis. Fusce malesuada ex id ligula suscipit commodo.",
+    "desc": "Calceare was a project mainly focused on the usage of Symfony, a PHP framework. As part of a group of 5 people, my job was to organize the backend aspects of the application, namely the routing aspects as well as the interfacing between the web client and the server.",
     "techno": [
       {
         "id": 1,
@@ -29,7 +29,7 @@
     "image": "https://butmmi.thomasjeu.fr/wp-content/uploads/2021/12/image1.jpg",
     "type": "Mobile App",
     "date": "2022",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at sapien aliquet, sodales justo eget, fringilla tortor. Nullam risus nulla, fringilla non auctor vel, rhoncus vel tortor. Sed tincidunt magna eu mi rhoncus, eu porta nibh sodales. Aliquam rhoncus et tortor a tincidunt. Donec quis ultrices ligula. Donec eleifend, libero ut facilisis rutrum, mi felis viverra sem, sed efficitur ipsum neque eu mi. Integer a diam placerat purus feugiat eleifend eget ac ligula.\n\nSuspendisse vel ornare metus. Pellentesque nec lacus augue. Pellentesque consectetur, risus a malesuada ullamcorper, quam tortor posuere neque, eget luctus ex orci sed nibh. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed porta quis odio in lacinia. Morbi fermentum, urna ac luctus luctus, augue felis iaculis nibh, at euismod risus odio sit amet nulla. In sed molestie tortor. Sed leo mauris, imperdiet in dictum eget, vehicula in quam. Ut iaculis ipsum et metus molestie facilisis. Fusce malesuada ex id ligula suscipit commodo.",
+    "desc": "The Game Library is an IMDB-like app that runs on your phone by downloading a .apk. Using multiple APIs to reach for data, this apps lets you see the current landscape of video gaming. The key features are: a searching loop of games, developers, editors, and themes ; the possibility of saving your favourite games ; a weekly ranking of the best-rated games ; the ability to rate games and discovery the community rankings.",
     "techno": [
       {
         "id": 1,
@@ -48,7 +48,7 @@
     "image": "https://architech.charlesmangin.fr/static/img/desktop-artiste1.31c7ecd.png",
     "type": "Website",
     "date": "2022",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at sapien aliquet, sodales justo eget, fringilla tortor. Nullam risus nulla, fringilla non auctor vel, rhoncus vel tortor. Sed tincidunt magna eu mi rhoncus, eu porta nibh sodales. Aliquam rhoncus et tortor a tincidunt. Donec quis ultrices ligula. Donec eleifend, libero ut facilisis rutrum, mi felis viverra sem, sed efficitur ipsum neque eu mi. Integer a diam placerat purus feugiat eleifend eget ac ligula.\n\nSuspendisse vel ornare metus. Pellentesque nec lacus augue. Pellentesque consectetur, risus a malesuada ullamcorper, quam tortor posuere neque, eget luctus ex orci sed nibh. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed porta quis odio in lacinia. Morbi fermentum, urna ac luctus luctus, augue felis iaculis nibh, at euismod risus odio sit amet nulla. In sed molestie tortor. Sed leo mauris, imperdiet in dictum eget, vehicula in quam. Ut iaculis ipsum et metus molestie facilisis. Fusce malesuada ex id ligula suscipit commodo.",
+    "desc": "Life is art, and art is life. Let's discover together Jean-Pierre Ugarte, a french painter know for his brutalist architectural art pieces. Why chose this subject for a website you might ask? Well, as far as I'm concerned: both in technology and Jean-Pierre Ugarte's works, structure is everything. Is this why I like his art so much? Who know :)",
     "techno": [
       {
         "id": 1,
@@ -71,7 +71,7 @@
     "image": "https://projetmemo.nikolag25.fr/static/img/Memo_1.7442942.jpg",
     "type": "Website",
     "date": "2022",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at sapien aliquet, sodales justo eget, fringilla tortor. Nullam risus nulla, fringilla non auctor vel, rhoncus vel tortor. Sed tincidunt magna eu mi rhoncus, eu porta nibh sodales. Aliquam rhoncus et tortor a tincidunt. Donec quis ultrices ligula. Donec eleifend, libero ut facilisis rutrum, mi felis viverra sem, sed efficitur ipsum neque eu mi. Integer a diam placerat purus feugiat eleifend eget ac ligula.\n\nSuspendisse vel ornare metus. Pellentesque nec lacus augue. Pellentesque consectetur, risus a malesuada ullamcorper, quam tortor posuere neque, eget luctus ex orci sed nibh. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed porta quis odio in lacinia. Morbi fermentum, urna ac luctus luctus, augue felis iaculis nibh, at euismod risus odio sit amet nulla. In sed molestie tortor. Sed leo mauris, imperdiet in dictum eget, vehicula in quam. Ut iaculis ipsum et metus molestie facilisis. Fusce malesuada ex id ligula suscipit commodo.",
+    "desc": "MeMO, a website made for a student association in Montbéliard, France. This website was created using Vue.JS and a headless CMS. My role was to be the project manager as well as a developer in a team made up of several students.",
     "techno": [
       {
         "id": 1,
@@ -94,7 +94,7 @@
     "image": "https://alteringames.charlesmangin.fr/img/board-game.png",
     "type": "Website",
     "date": "2021",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at sapien aliquet, sodales justo eget, fringilla tortor. Nullam risus nulla, fringilla non auctor vel, rhoncus vel tortor. Sed tincidunt magna eu mi rhoncus, eu porta nibh sodales. Aliquam rhoncus et tortor a tincidunt. Donec quis ultrices ligula. Donec eleifend, libero ut facilisis rutrum, mi felis viverra sem, sed efficitur ipsum neque eu mi. Integer a diam placerat purus feugiat eleifend eget ac ligula.\n\nSuspendisse vel ornare metus. Pellentesque nec lacus augue. Pellentesque consectetur, risus a malesuada ullamcorper, quam tortor posuere neque, eget luctus ex orci sed nibh. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed porta quis odio in lacinia. Morbi fermentum, urna ac luctus luctus, augue felis iaculis nibh, at euismod risus odio sit amet nulla. In sed molestie tortor. Sed leo mauris, imperdiet in dictum eget, vehicula in quam. Ut iaculis ipsum et metus molestie facilisis. Fusce malesuada ex id ligula suscipit commodo.",
+    "desc": "AlterinGames was an app made entirely in PHP. The aim of this app was to create a community around the topic of board games. Being the leader of a group of 3 people, my role was to organize the tasks (while working in a AGILE environment), manage the code reviews, and that into account the economic aspects of the project.",
     "techno": [
       {
         "id": 1,
@@ -117,7 +117,7 @@
     "image": "https://projets1.charlesmangin.fr/img/theodore-cityview.jpeg",
     "type": "Website",
     "date": "2020",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at sapien aliquet, sodales justo eget, fringilla tortor. Nullam risus nulla, fringilla non auctor vel, rhoncus vel tortor. Sed tincidunt magna eu mi rhoncus, eu porta nibh sodales. Aliquam rhoncus et tortor a tincidunt. Donec quis ultrices ligula. Donec eleifend, libero ut facilisis rutrum, mi felis viverra sem, sed efficitur ipsum neque eu mi. Integer a diam placerat purus feugiat eleifend eget ac ligula.\n\nSuspendisse vel ornare metus. Pellentesque nec lacus augue. Pellentesque consectetur, risus a malesuada ullamcorper, quam tortor posuere neque, eget luctus ex orci sed nibh. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed porta quis odio in lacinia. Morbi fermentum, urna ac luctus luctus, augue felis iaculis nibh, at euismod risus odio sit amet nulla. In sed molestie tortor. Sed leo mauris, imperdiet in dictum eget, vehicula in quam. Ut iaculis ipsum et metus molestie facilisis. Fusce malesuada ex id ligula suscipit commodo.",
+    "desc": "AI is a fascinating subject which was always very alluring to me. When tasked with making my first website as part of my junior year as a multimedia university student, this is the subject I choose. While not very impressive technically, the content of this website still remains to this day a glass window through which you might catch a glimpse of the future that could await us all.",
     "techno": [
       {
         "id": 1,
@@ -132,7 +132,7 @@
     "image": "https://benoitpiranda.fr/assets/lego/rendu6.png",
     "type": "3D",
     "date": "2022",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at sapien aliquet, sodales justo eget, fringilla tortor. Nullam risus nulla, fringilla non auctor vel, rhoncus vel tortor. Sed tincidunt magna eu mi rhoncus, eu porta nibh sodales. Aliquam rhoncus et tortor a tincidunt. Donec quis ultrices ligula. Donec eleifend, libero ut facilisis rutrum, mi felis viverra sem, sed efficitur ipsum neque eu mi. Integer a diam placerat purus feugiat eleifend eget ac ligula.\n\nSuspendisse vel ornare metus. Pellentesque nec lacus augue. Pellentesque consectetur, risus a malesuada ullamcorper, quam tortor posuere neque, eget luctus ex orci sed nibh. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed porta quis odio in lacinia. Morbi fermentum, urna ac luctus luctus, augue felis iaculis nibh, at euismod risus odio sit amet nulla. In sed molestie tortor. Sed leo mauris, imperdiet in dictum eget, vehicula in quam. Ut iaculis ipsum et metus molestie facilisis. Fusce malesuada ex id ligula suscipit commodo.",
+    "desc": "While studying under Benoit Piranda, multiple projects were given to us around the thematic of web 3D. One of them was to make a small lego game using Three.js and models we made ourselves inside 3DSMAX. While I'm by no means a 3D artist, this project was still interesting for me and made my discover an aspect of the web which I didn't know a lot about.",
     "techno": [
       {
         "id": 1,
@@ -151,7 +151,7 @@
     "image": "https://e-vatplus.com/wp-content/uploads/2022/12/vision.jpg",
     "type": "Website",
     "date": "2022",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at sapien aliquet, sodales justo eget, fringilla tortor. Nullam risus nulla, fringilla non auctor vel, rhoncus vel tortor. Sed tincidunt magna eu mi rhoncus, eu porta nibh sodales. Aliquam rhoncus et tortor a tincidunt. Donec quis ultrices ligula. Donec eleifend, libero ut facilisis rutrum, mi felis viverra sem, sed efficitur ipsum neque eu mi. Integer a diam placerat purus feugiat eleifend eget ac ligula.\n\nSuspendisse vel ornare metus. Pellentesque nec lacus augue. Pellentesque consectetur, risus a malesuada ullamcorper, quam tortor posuere neque, eget luctus ex orci sed nibh. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed porta quis odio in lacinia. Morbi fermentum, urna ac luctus luctus, augue felis iaculis nibh, at euismod risus odio sit amet nulla. In sed molestie tortor. Sed leo mauris, imperdiet in dictum eget, vehicula in quam. Ut iaculis ipsum et metus molestie facilisis. Fusce malesuada ex id ligula suscipit commodo.",
+    "desc": "While being part of Solead Agency as a web developer, I had the chance of witnessing many different typologies of web apps. From the simple SPA, to more complex content management systems, or even full e-commerce websites, my stay at Solead Agency drastically improved both my capabilities as a web developer, and my knowledge as a web user. E-VATplus was one of the first websites I made from A to Z while working at Solead Agency.",
     "techno": [
       {
         "id": 1,
@@ -174,7 +174,7 @@
     "image": "https://hypnose.charlesmangin.fr/wp-content/uploads/2023/01/pexels-shvets-production-7176319.jpg",
     "type": "Website",
     "date": "2023",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at sapien aliquet, sodales justo eget, fringilla tortor. Nullam risus nulla, fringilla non auctor vel, rhoncus vel tortor. Sed tincidunt magna eu mi rhoncus, eu porta nibh sodales. Aliquam rhoncus et tortor a tincidunt. Donec quis ultrices ligula. Donec eleifend, libero ut facilisis rutrum, mi felis viverra sem, sed efficitur ipsum neque eu mi. Integer a diam placerat purus feugiat eleifend eget ac ligula.\n\nSuspendisse vel ornare metus. Pellentesque nec lacus augue. Pellentesque consectetur, risus a malesuada ullamcorper, quam tortor posuere neque, eget luctus ex orci sed nibh. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed porta quis odio in lacinia. Morbi fermentum, urna ac luctus luctus, augue felis iaculis nibh, at euismod risus odio sit amet nulla. In sed molestie tortor. Sed leo mauris, imperdiet in dictum eget, vehicula in quam. Ut iaculis ipsum et metus molestie facilisis. Fusce malesuada ex id ligula suscipit commodo.",
+    "desc": "As part of a more broader decision of establishing myself as a freelance web developer, I had the change to work for different clients by myself. One of the first websites I made as a freelance is Annabel Roussel Hypnose.",
     "techno": [
       {
         "id": 1,
